@@ -104,4 +104,3 @@ plt.show()
 ## Conclusion
 This project serves as an analytical tool for investors and analysts interested in understanding Amazon's stock performance. By utilizing the `yfinance` library, users can access a wealth of financial data and generate insightful visualizations to inform their investment decisions. 
 
-For further enhancements, consider adding more complex analyses such as predictive modeling or integrating additional financial metrics.
